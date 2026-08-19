@@ -86,5 +86,14 @@
       "That is not the right Github url!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787157959.00692,
+    "completed_at": 1787158030.773696,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
   }
 ]
