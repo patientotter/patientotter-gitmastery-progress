@@ -198,5 +198,14 @@
       "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1787678571.268106,
+    "completed_at": 1787678572.866034,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
   }
 ]
