@@ -1,151 +1,5 @@
 [
   {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1787110905.77779,
-    "completed_at": 1787110907.317664,
-    "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "stage-fright",
-    "started_at": 1786899375.644293,
-    "completed_at": 1786899377.161759,
-    "comments": [
-      "Great work! You have successfully checked in all the actors!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "stage-fright",
-    "started_at": 1786901598.193875,
-    "completed_at": 1786901599.8521,
-    "comments": [
-      "Great work! You have successfully checked in all the actors!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "under-control",
-    "started_at": 1786884511.924713,
-    "completed_at": 1786884513.47638,
-    "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "undo-init",
-    "started_at": 1786884445.82658,
-    "completed_at": 1786884447.206002,
-    "comments": [
-      "You have successfully undone the init operation!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1787117513.556019,
-    "completed_at": 1787117516.596014,
-    "comments": [
-      "You should only be unstaging the attendance files for Josh, Adam, and Mary."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1787117565.915761,
-    "completed_at": 1787117567.389574,
-    "comments": [
-      "Great work! You have successfully fixed the attendance system!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "log-and-order",
-    "started_at": 1787118797.707276,
-    "completed_at": 1787118799.208934,
-    "comments": [],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1787157741.980663,
-    "completed_at": 1787157880.197946,
-    "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1787157904.234812,
-    "completed_at": 1787157922.302611,
-    "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1787157959.00692,
-    "completed_at": 1787158030.773696,
-    "comments": [
-      "Great work setting up a public remote repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1787158779.742435,
-    "completed_at": 1787158781.254198,
-    "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1787160455.133266,
-    "completed_at": 1787160457.272167,
-    "comments": [
-      "Great work pushing changes to the remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787160833.195058,
-    "completed_at": 1787160838.273643,
-    "comments": [
-      "You are still ignoring many/file22.txt.",
-      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
-      "You are not ignoring ignore_me.txt",
-      "You are not ignoring runaway.txt. Find where the file is and fix that.",
-      "You have not committed the relevant changes yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787160940.527066,
-    "completed_at": 1787160943.629492,
-    "comments": [
-      "Great work using .gitignore!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fork-repo",
-    "started_at": 1787288600.409003,
-    "completed_at": 1787288603.401837,
-    "comments": [
-      "Great work creating a fork with Github!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "clone-repo",
     "started_at": 1787289136.690273,
     "completed_at": 1787289141.311663,
@@ -178,6 +32,161 @@
     "completed_at": 1787290265.257934,
     "comments": [
       "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1787288600.409003,
+    "completed_at": 1787288603.401837,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787110905.77779,
+    "completed_at": 1787110907.317664,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787160833.195058,
+    "completed_at": 1787160838.273643,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that.",
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787160940.527066,
+    "completed_at": 1787160943.629492,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787158779.742435,
+    "completed_at": 1787158781.254198,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787118797.707276,
+    "completed_at": 1787118799.208934,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787160455.133266,
+    "completed_at": 1787160457.272167,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787157741.980663,
+    "completed_at": 1787157880.197946,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787157904.234812,
+    "completed_at": 1787157922.302611,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787157959.00692,
+    "completed_at": 1787158030.773696,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786899375.644293,
+    "completed_at": 1786899377.161759,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786901598.193875,
+    "completed_at": 1786901599.8521,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1787117513.556019,
+    "completed_at": 1787117516.596014,
+    "comments": [
+      "You should only be unstaging the attendance files for Josh, Adam, and Mary."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1787117565.915761,
+    "completed_at": 1787117567.389574,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787678328.175605,
+    "completed_at": 1787678329.774574,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786884511.924713,
+    "completed_at": 1786884513.47638,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786884445.82658,
+    "completed_at": 1786884447.206002,
+    "comments": [
+      "You have successfully undone the init operation!"
     ],
     "status": "Completed"
   },
