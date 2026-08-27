@@ -474,5 +474,14 @@
       "Contents of 'features.md' is not valid at commit with message 'Add the delete feature'! Try again!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787821372.652436,
+    "completed_at": 1787821375.94358,
+    "comments": [
+      "Cmd('git') failed due to: exit code(1)\n  cmdline: git checkout db41fbf707260499e5f94f2fb0c935a8c3409957\n  stderr: 'error: Your local changes to the following files would be overwritten by checkout:\n\tfeatures.md\nPlease commit your changes or stash them before you switch branches.\nAborting'"
+    ],
+    "status": "Error"
   }
 ]
